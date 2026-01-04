@@ -1,0 +1,30 @@
+{
+  "name": "1monthreact",
+  "version": "1.0.0",
+  "description": "this is namasete react ny Krishna Murari",
+  "keywords": [
+    "react",
+    "namasteReact"
+  ],
+  "homepage": "https://github.com/mrkrishna26s/1monthReact#readme",
+  "bugs": {
+    "url": "https://github.com/mrkrishna26s/1monthReact/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkrishna26s/1monthReact.git"
+  },
+  "license": "ISC",
+  "author": "KrishnaMurari",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
